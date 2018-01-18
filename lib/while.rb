@@ -4,7 +4,7 @@ def using_while
 	#your code here
 	puts "Wingardium Leviosa #{levitation_force}"
 	levitation_force += 1
-	if levitation_force>11
+	if levitation_force 11
 		break
 	end
 end
